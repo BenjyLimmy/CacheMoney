@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CacheMoney 💰
+
+**Your Complete Digital Banking Companion**
+
+CacheMoney is a modern, full-stack banking application that puts comprehensive financial management at your fingertips. Built with cutting-edge technology, CacheMoney transforms how you interact with your money by bringing all your financial accounts into one secure, intuitive platform.
+
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Getting Started
 
